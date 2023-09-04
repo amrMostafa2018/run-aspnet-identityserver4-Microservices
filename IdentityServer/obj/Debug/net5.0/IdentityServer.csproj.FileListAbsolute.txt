@@ -24,3 +24,16 @@ D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Identit
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\obj\Debug\net5.0\IdentityServer.pdb
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\obj\Debug\net5.0\IdentityServer.genruntimeconfig.cache
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\obj\Debug\net5.0\ref\IdentityServer.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\IdentityModel.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\IdentityServer4.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\obj\Debug\net5.0\IdentityServer.csproj.AssemblyReference.cache
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\IdentityServer\obj\Debug\net5.0\IdentityServer.csproj.CopyComplete
