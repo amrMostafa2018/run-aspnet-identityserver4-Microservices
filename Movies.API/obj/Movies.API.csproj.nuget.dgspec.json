@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4\\SecureMicroservices\\Movies.API\\Movies.API.csproj": {}
+    "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4-Microservices\\Movies.API\\Movies.API.csproj": {}
   },
   "projects": {
-    "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4\\SecureMicroservices\\Movies.API\\Movies.API.csproj": {
+    "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4-Microservices\\Movies.API\\Movies.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4\\SecureMicroservices\\Movies.API\\Movies.API.csproj",
+        "projectUniqueName": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4-Microservices\\Movies.API\\Movies.API.csproj",
         "projectName": "Movies.API",
-        "projectPath": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4\\SecureMicroservices\\Movies.API\\Movies.API.csproj",
+        "projectPath": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4-Microservices\\Movies.API\\Movies.API.csproj",
         "packagesPath": "C:\\Users\\amr.mostafa\\.nuget\\packages\\",
-        "outputPath": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4\\SecureMicroservices\\Movies.API\\obj\\",
+        "outputPath": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4-Microservices\\Movies.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amr.mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

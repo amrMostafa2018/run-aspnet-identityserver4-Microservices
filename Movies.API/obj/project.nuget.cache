@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+PlUqwzgWCGhKkqIkOIfuDgovPWsBe7VGTk+UiLRKmsVCmj9HJ+5TkeepFem/XTVYkGJeEppUkrC3g0MVAlUhw==",
+  "dgSpecHash": "OS6vUeeyyQrry/pL1um1FAxfqR0uF6Ir3RDedTHiNWfr0gXuZTxhtTElx8otz5Amfz7JupMQOTE7LxiCvV4gJg==",
   "success": true,
-  "projectFilePath": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4\\SecureMicroservices\\Movies.API\\Movies.API.csproj",
+  "projectFilePath": "D:\\Hands_On\\Microservice Course\\run-aspnet-identityserver4-Microservices\\Movies.API\\Movies.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amr.mostafa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\amr.mostafa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
