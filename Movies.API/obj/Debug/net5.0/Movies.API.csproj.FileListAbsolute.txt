@@ -85,7 +85,6 @@ D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -126,3 +125,4 @@ D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\obj\Debug\net5.0\Movies.API.pdb
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\obj\Debug\net5.0\Movies.API.genruntimeconfig.cache
 D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\obj\Debug\net5.0\ref\Movies.API.dll
+D:\Hands_On\Microservice Course\run-aspnet-identityserver4-Microservices\Movies.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

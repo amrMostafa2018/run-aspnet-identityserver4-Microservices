@@ -21,7 +21,8 @@ namespace IdentityServer
                             new Secret("secret".Sha256())
                         },
                         AllowedScopes = { "movieAPI" }
-                   },
+                   }
+                   /*,
                    new Client
                    {
                        ClientId = "movies_mvc_client",
@@ -50,7 +51,7 @@ namespace IdentityServer
                            "movieAPI",
                            "roles"
                        }
-                   }
+                   }*/
           };
 
         public static IEnumerable<ApiScope> ApiScopes =>
@@ -67,7 +68,7 @@ namespace IdentityServer
 
         public static IEnumerable<IdentityResource> IdentityResources =>
           new IdentityResource[]
-          {
+          {/*
               new IdentityResources.OpenId(),
               new IdentityResources.Profile(),
               new IdentityResources.Address(),
@@ -75,7 +76,7 @@ namespace IdentityServer
               new IdentityResource(
                     "roles",
                     "Your role(s)",
-                    new List<string>() { "role" })
+                    new List<string>() { "role" })*/
           };
 
         public static List<TestUser> TestUsers =>
@@ -83,16 +84,16 @@ namespace IdentityServer
             {
                 new TestUser
                 {
-                    SubjectId = "5BE86359-073C-434B-AD2D-A3932222DABE",
+                   /* SubjectId = "5BE86359-073C-434B-AD2D-A3932222DABE",
                     Username = "mehmet",
                     Password = "swn",
                     Claims = new List<Claim>
                     {
                         new Claim(JwtClaimTypes.GivenName, "mehmet"),
-                        new Claim(JwtClaimTypes.FamilyName, "ozkaya")
+                        new Claim(JwtClaimTypes.FamilyName, "ozkaya")*/
                     }
-                }
-            };
+                };
+            }
 
-    }
+    
 }
