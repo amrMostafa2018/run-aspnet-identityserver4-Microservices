@@ -22,7 +22,7 @@ namespace IdentityServer
                         },
                         AllowedScopes = { "movieAPI" }
                    }
-                   /*,
+                   ,
                    new Client
                    {
                        ClientId = "movies_mvc_client",
@@ -46,12 +46,12 @@ namespace IdentityServer
                        {
                            IdentityServerConstants.StandardScopes.OpenId,
                            IdentityServerConstants.StandardScopes.Profile,
-                           IdentityServerConstants.StandardScopes.Address,
-                           IdentityServerConstants.StandardScopes.Email,
-                           "movieAPI",
-                           "roles"
+                           //IdentityServerConstants.StandardScopes.Address,
+                           //IdentityServerConstants.StandardScopes.Email,
+                           //"movieAPI",
+                           //"roles"
                        }
-                   }*/
+                   }
           };
 
         public static IEnumerable<ApiScope> ApiScopes =>
@@ -68,15 +68,15 @@ namespace IdentityServer
 
         public static IEnumerable<IdentityResource> IdentityResources =>
           new IdentityResource[]
-          {/*
+          {
               new IdentityResources.OpenId(),
               new IdentityResources.Profile(),
-              new IdentityResources.Address(),
-              new IdentityResources.Email(),
-              new IdentityResource(
-                    "roles",
-                    "Your role(s)",
-                    new List<string>() { "role" })*/
+              //new IdentityResources.Address(),
+              //new IdentityResources.Email(),
+              //new IdentityResource(
+              //      "roles",
+              //      "Your role(s)",
+              //      new List<string>() { "role" })
           };
 
         public static List<TestUser> TestUsers =>
@@ -84,16 +84,17 @@ namespace IdentityServer
             {
                 new TestUser
                 {
-                   /* SubjectId = "5BE86359-073C-434B-AD2D-A3932222DABE",
+                    SubjectId = "5BE86359-073C-434B-AD2D-A3932222DABE",
                     Username = "mehmet",
-                    Password = "swn",
+                    Password = "mehmet",
                     Claims = new List<Claim>
                     {
                         new Claim(JwtClaimTypes.GivenName, "mehmet"),
-                        new Claim(JwtClaimTypes.FamilyName, "ozkaya")*/
+                        new Claim(JwtClaimTypes.FamilyName, "ozkaya")
                     }
-                };
-            }
+                }
+            };
 
-    
+
+    }
 }
