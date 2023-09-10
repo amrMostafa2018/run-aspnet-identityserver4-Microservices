@@ -48,7 +48,7 @@ namespace IdentityServer
                            IdentityServerConstants.StandardScopes.Profile,
                            //IdentityServerConstants.StandardScopes.Address,
                            //IdentityServerConstants.StandardScopes.Email,
-                           //"movieAPI",
+                           "movieAPI",
                            //"roles"
                        }
                    }
